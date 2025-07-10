@@ -31,5 +31,6 @@ This repository contains the design files for a custom ESP32-S3-based developmen
 
 
 🎓 Reference Tutorial
+
 This design was created as part of a learning project based on the following tutorial by ElectroPoint, which provided valuable insights into the design process:
 🔗[ ESP32-S3 Dev Board Design Tutorial – YouTube](https://www.youtube.com/watch?v=KWIzhbQaZZk&t=26319s)
