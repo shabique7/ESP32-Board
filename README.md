@@ -1,6 +1,7 @@
 # 🛠️ Custom ESP32-S3 Development Board | Designed in Altium
 This repository contains the design files for a custom ESP32-S3-based development board, created entirely in Altium Designer. This project was a focused exercise in advanced PCB design, aiming to reinforce practical skills in schematic capture, multilayer layout, and design-for-manufacturing principles.
 
+
 🔧 Key Features
 
 1.ESP32-S3 module (Wi-Fi + BLE support)
@@ -14,6 +15,7 @@ This repository contains the design files for a custom ESP32-S3-based developmen
 5.4-layer PCB stackup for optimized routing and signal integrity
 
 6.GPIO headers for expandability and prototyping
+
 
 📘 Learning Outcomes
 
