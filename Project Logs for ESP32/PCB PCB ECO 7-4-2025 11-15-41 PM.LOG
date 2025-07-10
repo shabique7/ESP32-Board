@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=CON GPIO0 Pin=J1-3
+Removed Pin From Net: NetName=CON GPIO0 Pin=R1-1
+Change Component Comment : Designator=C3 Old Comment=CL10B104JB8NNNC New Comment=1u,35V
+Change Component Comment : Designator=C17 Old Comment=CL10B104JB8NNNC New Comment=4u7,16V
+Change Component Comment : Designator=C11 Old Comment=CL10B104JB8NNNC New Comment=10uF,10V
+Change Component Comment : Designator=C12 Old Comment=CL10B104JB8NNNC New Comment=10uF,10V
+Change Component Comment : Designator=C1 Old Comment=CL10B104JB8NNNC New Comment=10uF,50V
+Change Component Comment : Designator=C2 Old Comment=CL10B104JB8NNNC New Comment=10uF,50V
+Change Component Comment : Designator=C4 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C13 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C14 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C16 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=R20 Old Comment=CRCW060310K0FKEA New Comment=0R
+Change Component Comment : Designator=R21 Old Comment=CRCW060310K0FKEA New Comment=0R
+Change Component Comment : Designator=R23 Old Comment=CRCW060310K0FKEA New Comment=0R
+Change Component Comment : Designator=R24 Old Comment=CRCW060310K0FKEA New Comment=0R
+Change Component Comment : Designator=R25 Old Comment=CRCW060310K0FKEA New Comment=0R
+Change Component Comment : Designator=R26 Old Comment=CRCW060310K0FKEA New Comment=0R
+Change Component Comment : Designator=R13 Old Comment=CRCW060310K0FKEA New Comment=1K
+Change Component Comment : Designator=R14 Old Comment=CRCW060310K0FKEA New Comment=1K
+Change Component Comment : Designator=R17 Old Comment=CRCW060310K0FKEA New Comment=4K7
+Change Component Comment : Designator=R18 Old Comment=CRCW060310K0FKEA New Comment=4K7
+Change Component Comment : Designator=R3 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R16 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R19 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R22 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R1 Old Comment=CRCW060310K0FKEA New Comment=27R
+Change Component Comment : Designator=R2 Old Comment=CRCW060310K0FKEA New Comment=27R
+Add component: Footprint Not Found HDR_1X3_1.27MM
+Add Pin To Net: Unknown Pin: Pin J1-21
+Add Pin To Net: Unknown Pin: Pin J1-22
+Add Pin To Net: Unknown Pin: Pin J1-23
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J2-22
+Add Pin To Net: Unknown Pin: Pin J2-23
+Add Pin To Net: Unknown Pin: Pin J2-24
+Add Pin To Net: Unknown Pin: Pin J3-A1B12
+Add Pin To Net: Unknown Pin: Pin J3-A4B9
+Add Pin To Net: Unknown Pin: Pin J3-B1A12
+Add Pin To Net: Unknown Pin: Pin J3-B4A9
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Pin To Net: Unknown Pin: Pin J3-S3
+Add Pin To Net: Unknown Pin: Pin J3-S4
+Add Pin To Net: Unknown Pin: Pin J4-A1B12
+Add Pin To Net: Unknown Pin: Pin J4-A4B9
+Add Pin To Net: Unknown Pin: Pin J4-B1A12
+Add Pin To Net: Unknown Pin: Pin J4-B4A9
+Add Pin To Net: Unknown Pin: Pin J4-S1
+Add Pin To Net: Unknown Pin: Pin J4-S2
+Add Pin To Net: Unknown Pin: Pin J4-S3
+Add Pin To Net: Unknown Pin: Pin J4-S4
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Change Net Name : Old Net Name=CON GPIO0 New Net Name=GND
+Added Pin To Net: NetName=CON GPIO0 Pin=J1-3
+Added Pin To Net: NetName=CON GPIO0 Pin=R1-1
+Added Net: Name=CON GPIO0
+Add Differential Pair: Number of nets in differential pair CON1_ESP_USB-N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_ESP_USB-P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_USB-N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_USB-P is 1 instead of 2
+Added Rule: Name=Schematic Supply Nets_5

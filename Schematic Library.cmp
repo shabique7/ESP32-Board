@@ -1,0 +1,28 @@
+Component Name : 217179-0001
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 16
+          GND_A1B12      A1B12          Passive
+          VBUS_A4B9      A4B9           Passive
+          A5             A5             Passive
+          A6             A6             Passive
+          A7             A7             Passive
+          A8             A8             Passive
+          B1             B1A12          Passive
+          B4             B4A9           Passive
+          B5             B5             Passive
+          B6             B6             Passive
+          B7             B7             Passive
+          B8             B8             Passive
+          S1             S1             Passive
+          S2             S2             Passive
+          S3             S3             Passive
+          S4             S4             Passive
+          Hidden Pins : 
+

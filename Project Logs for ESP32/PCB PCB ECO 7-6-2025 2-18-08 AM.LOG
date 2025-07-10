@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+5V_VBUS1 Pin=C5-1
+Removed Pin From Net: NetName=+5V_VBUS1 Pin=D6-2
+Change Component Comment : Designator=C7 Old Comment=CL10B104JB8NNNC New Comment=4u7,16V
+Change Component Comment : Designator=C5 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C6 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C8 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C9 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C10 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=C15 Old Comment=CL10B104JB8NNNC New Comment=100nF,50V
+Change Component Comment : Designator=R15 Old Comment=CRCW060310K0FKEA New Comment=0R
+Change Component Comment : Designator=D1 Old Comment=LTST-C190GKT New Comment=GREEN
+Change Component Comment : Designator=D2 Old Comment=LTST-C190GKT New Comment=RED
+Added Component: Designator=J5(HDR_1X3_1.27MM - duplicate)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.samtec.com/documents/webfiles/pdf/FTS.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/FTS.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://suddendocs.samtec.com/prints/fts-1xx-xx-xx-xx-xx-mkt.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://suddendocs.samtec.com/prints/fts-1xx-xx-xx-xx-xx-mkt.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com/FTS-103-01-F-S-Samtec-datasheet-116535195.pdf?src-supplier=Toby+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com/FTS-103-01-F-S-Samtec-datasheet-116535195.pdf?src-supplier=Toby+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/FTS-103-01-F-S-Samtec-datasheet-151470456.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/FTS-103-01-F-S-Samtec-datasheet-151470456.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/FTS-103-01-F-S-Samtec-datasheet-118493358.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/FTS-103-01-F-S-Samtec-datasheet-118493358.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "29Gender"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FTS-103-01-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.73, 50=0.6378, 100=0.5407, 500=0.4491, 1000=0.384 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "612-FTS-103-01-F-S-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-21
+Add Pin To Net: Unknown Pin: Pin J1-22
+Add Pin To Net: Unknown Pin: Pin J1-23
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J2-22
+Add Pin To Net: Unknown Pin: Pin J2-23
+Add Pin To Net: Unknown Pin: Pin J2-24
+Add Pin To Net: Unknown Pin: Pin J3-A1B12
+Add Pin To Net: Unknown Pin: Pin J3-A4B9
+Add Pin To Net: Unknown Pin: Pin J3-B1A12
+Add Pin To Net: Unknown Pin: Pin J3-B4A9
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Pin To Net: Unknown Pin: Pin J3-S3
+Add Pin To Net: Unknown Pin: Pin J3-S4
+Add Pin To Net: Unknown Pin: Pin J4-A1B12
+Add Pin To Net: Unknown Pin: Pin J4-B1A12
+Add Pin To Net: Unknown Pin: Pin J4-S1
+Add Pin To Net: Unknown Pin: Pin J4-S2
+Add Pin To Net: Unknown Pin: Pin J4-S3
+Add Pin To Net: Unknown Pin: Pin J4-S4
+Added Pin To Net: NetName=+5V_VBUS1 Pin=J5-1
+Added Pin To Net: NetName=+5V Pin=J5-2
+Added Pin To Net: NetName=+5V_VBUS2 Pin=C5-1
+Added Pin To Net: NetName=+5V_VBUS2 Pin=D6-2
+Added Pin To Net: NetName=+5V_VBUS2 Pin=J5-3
+Added Net: Name=+5V_VBUS2
+Add Differential Pair: Number of nets in differential pair CON1_ESP_USB-N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_ESP_USB-P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_USB-N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_USB-P is 1 instead of 2
+Added Rule: Name=Schematic Supply Nets

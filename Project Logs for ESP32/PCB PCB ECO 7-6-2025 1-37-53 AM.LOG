@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=U1 Old Footprint= New Footprint=XCVR_ESP32-S3-MINI-1-N8
+Add component: Footprint Not Found HDR_1X3_1.27MM
+Add Pin To Net: Unknown Pin: Pin J1-21
+Add Pin To Net: Unknown Pin: Pin J1-22
+Add Pin To Net: Unknown Pin: Pin J1-23
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J2-22
+Add Pin To Net: Unknown Pin: Pin J2-23
+Add Pin To Net: Unknown Pin: Pin J2-24
+Add Pin To Net: Unknown Pin: Pin J3-A1B12
+Add Pin To Net: Unknown Pin: Pin J3-A4B9
+Add Pin To Net: Unknown Pin: Pin J3-B1A12
+Add Pin To Net: Unknown Pin: Pin J3-B4A9
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Pin To Net: Unknown Pin: Pin J3-S3
+Add Pin To Net: Unknown Pin: Pin J3-S4
+Add Pin To Net: Unknown Pin: Pin J4-A1B12
+Add Pin To Net: Unknown Pin: Pin J4-A4B9
+Add Pin To Net: Unknown Pin: Pin J4-B1A12
+Add Pin To Net: Unknown Pin: Pin J4-B4A9
+Add Pin To Net: Unknown Pin: Pin J4-S1
+Add Pin To Net: Unknown Pin: Pin J4-S2
+Add Pin To Net: Unknown Pin: Pin J4-S3
+Add Pin To Net: Unknown Pin: Pin J4-S4
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Differential Pair: Number of nets in differential pair CON1_ESP_USB-N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_ESP_USB-P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_USB-N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CON1_USB-P is 1 instead of 2
